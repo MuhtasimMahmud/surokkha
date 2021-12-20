@@ -1,7 +1,5 @@
 ul{
     list-style-type: none;
-    margin: 0px;
-    padding: 0px;
     float: right;
     margin-right: 210px;
     margin-top: -50px;
@@ -19,13 +17,22 @@ li a{
     margin-left: 400px;
 }
 
-.navlinks{
-    text-align: center;
-}
 .content{
     background-image: url("images/background.jpg");
+    background-repeat:no-repeat;
+    height:2000px;
+    width:100%;
+}
 
-}
 .half-width{
-    width: 50%;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
 }
+
+
+
+
+
+
