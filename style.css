@@ -20,6 +20,7 @@ li a{
 .content{
     background-image: url("images/background.jpg");
     background-repeat:no-repeat;
+    margin-top: 30px;
     height:2000px;
     width:100%;
 }
