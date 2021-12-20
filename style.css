@@ -26,3 +26,6 @@ li a{
     background-image: url("images/background.jpg");
 
 }
+.half-width{
+    width: 50%;
+}
