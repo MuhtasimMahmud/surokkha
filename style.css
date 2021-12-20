@@ -16,9 +16,13 @@ li a{
 }
 
 .nav-img{
-    margin-left: 300px;
+    margin-left: 400px;
 }
 
 .navlinks{
     text-align: center;
+}
+.content{
+    background-image: url("images/background.jpg");
+
 }
